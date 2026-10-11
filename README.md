@@ -21,6 +21,12 @@ A interação com o sistema ocorre por meio do controle do mouse e do teclado, s
 * Envio dos cadastros por meio da interface gráfica.
 * Controle de pausas entre as etapas da automação.
 
+## 🎬 Demonstração do projeto
+
+Veja a automação de cadastro de produtos em funcionamento, desde a abertura do navegador até o preenchimento automático dos formulários utilizando Python, PyAutoGUI e Pandas.
+
+▶️ [Assistir à demonstração]https://vimeo.com/1234731321?share=copy&fl=sv&fe=ci
+
 ## 🛠️ Tecnologias utilizadas
 
 | Tecnologia    | Aplicação                             |
